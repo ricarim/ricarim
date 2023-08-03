@@ -1,5 +1,6 @@
+## Hi there!
+Check out my  <a href="https://ric-amorim.github.io/" target="_blank">website</a>.
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ric-amorim&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+## My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ric-amorim&show_icons=true&theme=transparent&hide_rank=true&card_width=350px&hide_title=true&border_radius=0&hide_border=true"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ric-amorim&theme=transparent&layout=compact&langs_count=8&card_width=350px&hide_title=true&border_radius=0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
